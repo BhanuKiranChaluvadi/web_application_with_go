@@ -1,0 +1,23 @@
+:imagesdir: images
+:couchbase_version: current
+:toc:
+:project_id: gs-how-to-cmake
+:icons: font
+:source-highlighter: prettify
+:tags: guides,meta
+
+= Getting started with GO
+
+== Introduction
+
+This is part of the course work from pluralsight by Mike Van Sickle
+
+    * https://app.pluralsight.com/library/courses/creating-web-applications-go-update/table-of-contents[pluralsight] 
+    * https://golang.org/doc/[installation & documentation]
+
+== Usefull Webpages
+
+    * https://play.golang.org/[play-golang]
+    * https://go.dev/doc/effective_go[effective_go]
+    * https://pkg.go.dev/net/http#Handler[http-Handler]
+
